@@ -1,0 +1,28 @@
+{
+  "name": "react-thumb-expand",
+  "version": "1.0.0",
+  "description": "A thumbnail size box that expands into a larger view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohall/react-thumb-expand.git"
+  },
+  "keywords": [
+    "react",
+    "ui"
+  ],
+  "author": "Oakley Hall <oakley349@gmail.com> (http://www.flowstate.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/react-thumb-expand/issues"
+  },
+  "homepage": "https://github.com/ohall/react-thumb-expand",
+  "devDependencies": {
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.10.5"
+  },
+  "dependencies": {}
+}
